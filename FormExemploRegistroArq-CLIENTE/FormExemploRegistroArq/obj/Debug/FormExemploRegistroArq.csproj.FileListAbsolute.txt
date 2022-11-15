@@ -1,0 +1,56 @@
+C:\Users\rreei\source\repos\FormExemploRegistroArq\FormExemploRegistroArq\bin\Debug\FormExemploRegistroArq.exe.config
+C:\Users\rreei\source\repos\FormExemploRegistroArq\FormExemploRegistroArq\bin\Debug\FormExemploRegistroArq.exe
+C:\Users\rreei\source\repos\FormExemploRegistroArq\FormExemploRegistroArq\bin\Debug\FormExemploRegistroArq.pdb
+C:\Users\rreei\source\repos\FormExemploRegistroArq\FormExemploRegistroArq\obj\Debug\FormExemploRegistroArq.csproj.AssemblyReference.cache
+C:\Users\rreei\source\repos\FormExemploRegistroArq\FormExemploRegistroArq\obj\Debug\FormExemploRegistroArq.csproj.SuggestedBindingRedirects.cache
+C:\Users\rreei\source\repos\FormExemploRegistroArq\FormExemploRegistroArq\obj\Debug\FormExemploRegistroArq.Properties.Resources.resources
+C:\Users\rreei\source\repos\FormExemploRegistroArq\FormExemploRegistroArq\obj\Debug\FormExemploRegistroArq.csproj.GenerateResource.cache
+C:\Users\rreei\source\repos\FormExemploRegistroArq\FormExemploRegistroArq\obj\Debug\FormExemploRegistroArq.csproj.CoreCompileInputs.cache
+C:\Users\rreei\source\repos\FormExemploRegistroArq\FormExemploRegistroArq\obj\Debug\FormExemploRegistroArq.exe
+C:\Users\rreei\source\repos\FormExemploRegistroArq\FormExemploRegistroArq\obj\Debug\FormExemploRegistroArq.pdb
+C:\Users\rreei\source\repos\FormExemploRegistroArq\FormExemploRegistroArq\obj\Debug\FormExemploRegistroArq.Form1.resources
+C:\Users\rreei\source\repos\FormExemploRegistroArq\FormExemploRegistroArq\obj\Debug\FormExemploRegistroArq.Formulario.FormCadastrar.resources
+C:\Users\rreei\source\repos\FormExemploRegistroArq\FormExemploRegistroArq\obj\Debug\FormExemploRegistroArq.Formulario.FormListarCadastro.resources
+C:\Users\rreei\source\repos\FormExemploRegistroArq\FormExemploRegistroArq\obj\Debug\FormExemploRegistroArq.Formulario.FormConsultarcliente.resources
+C:\Users\2301059\Documents\para 06.10\para alunos\FormExemploRegistroArq\FormExemploRegistroArq\bin\Debug\FormExemploRegistroArq.exe.config
+C:\Users\2301059\Documents\para 06.10\para alunos\FormExemploRegistroArq\FormExemploRegistroArq\bin\Debug\FormExemploRegistroArq.exe
+C:\Users\2301059\Documents\para 06.10\para alunos\FormExemploRegistroArq\FormExemploRegistroArq\bin\Debug\FormExemploRegistroArq.pdb
+C:\Users\2301059\Documents\para 06.10\para alunos\FormExemploRegistroArq\FormExemploRegistroArq\obj\Debug\FormExemploRegistroArq.csproj.AssemblyReference.cache
+C:\Users\2301059\Documents\para 06.10\para alunos\FormExemploRegistroArq\FormExemploRegistroArq\obj\Debug\FormExemploRegistroArq.csproj.SuggestedBindingRedirects.cache
+C:\Users\2301059\Documents\para 06.10\para alunos\FormExemploRegistroArq\FormExemploRegistroArq\obj\Debug\FormExemploRegistroArq.Form1.resources
+C:\Users\2301059\Documents\para 06.10\para alunos\FormExemploRegistroArq\FormExemploRegistroArq\obj\Debug\FormExemploRegistroArq.Formulario.FormCadastrar.resources
+C:\Users\2301059\Documents\para 06.10\para alunos\FormExemploRegistroArq\FormExemploRegistroArq\obj\Debug\FormExemploRegistroArq.Formulario.FormConsultarcliente.resources
+C:\Users\2301059\Documents\para 06.10\para alunos\FormExemploRegistroArq\FormExemploRegistroArq\obj\Debug\FormExemploRegistroArq.Formulario.FormListarCadastro.resources
+C:\Users\2301059\Documents\para 06.10\para alunos\FormExemploRegistroArq\FormExemploRegistroArq\obj\Debug\FormExemploRegistroArq.Properties.Resources.resources
+C:\Users\2301059\Documents\para 06.10\para alunos\FormExemploRegistroArq\FormExemploRegistroArq\obj\Debug\FormExemploRegistroArq.csproj.GenerateResource.cache
+C:\Users\2301059\Documents\para 06.10\para alunos\FormExemploRegistroArq\FormExemploRegistroArq\obj\Debug\FormExemploRegistroArq.csproj.CoreCompileInputs.cache
+C:\Users\2301059\Documents\para 06.10\para alunos\FormExemploRegistroArq\FormExemploRegistroArq\obj\Debug\FormExemploRegistroArq.exe
+C:\Users\2301059\Documents\para 06.10\para alunos\FormExemploRegistroArq\FormExemploRegistroArq\obj\Debug\FormExemploRegistroArq.pdb
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO\Programação Visual\FormExemploRegistroArq-AVA\FormExemploRegistroArq\bin\Debug\FormExemploRegistroArq.exe.config
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO\Programação Visual\FormExemploRegistroArq-AVA\FormExemploRegistroArq\bin\Debug\FormExemploRegistroArq.exe
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO\Programação Visual\FormExemploRegistroArq-AVA\FormExemploRegistroArq\bin\Debug\FormExemploRegistroArq.pdb
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO\Programação Visual\FormExemploRegistroArq-AVA\FormExemploRegistroArq\obj\Debug\FormExemploRegistroArq.csproj.AssemblyReference.cache
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO\Programação Visual\FormExemploRegistroArq-AVA\FormExemploRegistroArq\obj\Debug\FormExemploRegistroArq.csproj.SuggestedBindingRedirects.cache
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO\Programação Visual\FormExemploRegistroArq-AVA\FormExemploRegistroArq\obj\Debug\FormExemploRegistroArq.Form1.resources
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO\Programação Visual\FormExemploRegistroArq-AVA\FormExemploRegistroArq\obj\Debug\FormExemploRegistroArq.Formulario.FormCadastrar.resources
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO\Programação Visual\FormExemploRegistroArq-AVA\FormExemploRegistroArq\obj\Debug\FormExemploRegistroArq.Formulario.FormConsultarcliente.resources
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO\Programação Visual\FormExemploRegistroArq-AVA\FormExemploRegistroArq\obj\Debug\FormExemploRegistroArq.Formulario.FormListarCadastro.resources
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO\Programação Visual\FormExemploRegistroArq-AVA\FormExemploRegistroArq\obj\Debug\FormExemploRegistroArq.Properties.Resources.resources
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO\Programação Visual\FormExemploRegistroArq-AVA\FormExemploRegistroArq\obj\Debug\FormExemploRegistroArq.csproj.GenerateResource.cache
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO\Programação Visual\FormExemploRegistroArq-AVA\FormExemploRegistroArq\obj\Debug\FormExemploRegistroArq.csproj.CoreCompileInputs.cache
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO\Programação Visual\FormExemploRegistroArq-AVA\FormExemploRegistroArq\obj\Debug\FormExemploRegistroArq.exe
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO\Programação Visual\FormExemploRegistroArq-AVA\FormExemploRegistroArq\obj\Debug\FormExemploRegistroArq.pdb
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO\Programação Visual\FormExemploRegistroArq-CLIENTE\FormExemploRegistroArq\obj\Debug\FormExemploRegistroArq.csproj.AssemblyReference.cache
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO\Programação Visual\FormExemploRegistroArq-CLIENTE\FormExemploRegistroArq\obj\Debug\FormExemploRegistroArq.csproj.SuggestedBindingRedirects.cache
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO\Programação Visual\FormExemploRegistroArq-CLIENTE\FormExemploRegistroArq\obj\Debug\FormExemploRegistroArq.Form1.resources
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO\Programação Visual\FormExemploRegistroArq-CLIENTE\FormExemploRegistroArq\obj\Debug\FormExemploRegistroArq.Formulario.FormCadastrar.resources
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO\Programação Visual\FormExemploRegistroArq-CLIENTE\FormExemploRegistroArq\obj\Debug\FormExemploRegistroArq.Formulario.FormConsultarcliente.resources
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO\Programação Visual\FormExemploRegistroArq-CLIENTE\FormExemploRegistroArq\obj\Debug\FormExemploRegistroArq.Formulario.FormListarCadastro.resources
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO\Programação Visual\FormExemploRegistroArq-CLIENTE\FormExemploRegistroArq\obj\Debug\FormExemploRegistroArq.Properties.Resources.resources
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO\Programação Visual\FormExemploRegistroArq-CLIENTE\FormExemploRegistroArq\obj\Debug\FormExemploRegistroArq.csproj.GenerateResource.cache
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO\Programação Visual\FormExemploRegistroArq-CLIENTE\FormExemploRegistroArq\obj\Debug\FormExemploRegistroArq.csproj.CoreCompileInputs.cache
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO\Programação Visual\FormExemploRegistroArq-CLIENTE\FormExemploRegistroArq\obj\Debug\FormExemploRegistroArq.exe
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO\Programação Visual\FormExemploRegistroArq-CLIENTE\FormExemploRegistroArq\obj\Debug\FormExemploRegistroArq.pdb
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO\Programação Visual\FormExemploRegistroArq-CLIENTE\FormExemploRegistroArq\bin\Debug\FormExemploRegistroArq.exe.config
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO\Programação Visual\FormExemploRegistroArq-CLIENTE\FormExemploRegistroArq\bin\Debug\FormExemploRegistroArq.exe
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO\Programação Visual\FormExemploRegistroArq-CLIENTE\FormExemploRegistroArq\bin\Debug\FormExemploRegistroArq.pdb

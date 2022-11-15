@@ -1,0 +1,28 @@
+C:\Users\2301059\source\repos\FormCalculadoraDiversa\FormCalculadoraDiversa\bin\Debug\FormCalculadoraDiversa.exe.config
+C:\Users\2301059\source\repos\FormCalculadoraDiversa\FormCalculadoraDiversa\bin\Debug\FormCalculadoraDiversa.exe
+C:\Users\2301059\source\repos\FormCalculadoraDiversa\FormCalculadoraDiversa\bin\Debug\FormCalculadoraDiversa.pdb
+C:\Users\2301059\source\repos\FormCalculadoraDiversa\FormCalculadoraDiversa\obj\Debug\FormCalculadoraDiversa.csproj.AssemblyReference.cache
+C:\Users\2301059\source\repos\FormCalculadoraDiversa\FormCalculadoraDiversa\obj\Debug\FormCalculadoraDiversa.csproj.SuggestedBindingRedirects.cache
+C:\Users\2301059\source\repos\FormCalculadoraDiversa\FormCalculadoraDiversa\obj\Debug\FormCalculadoraDiversa.Form1.resources
+C:\Users\2301059\source\repos\FormCalculadoraDiversa\FormCalculadoraDiversa\obj\Debug\FormCalculadoraDiversa.Formularios.FormAumentarSalario.resources
+C:\Users\2301059\source\repos\FormCalculadoraDiversa\FormCalculadoraDiversa\obj\Debug\FormCalculadoraDiversa.Formularios.FormCalcularDesconto.resources
+C:\Users\2301059\source\repos\FormCalculadoraDiversa\FormCalculadoraDiversa\obj\Debug\FormCalculadoraDiversa.Properties.Resources.resources
+C:\Users\2301059\source\repos\FormCalculadoraDiversa\FormCalculadoraDiversa\obj\Debug\FormCalculadoraDiversa.csproj.GenerateResource.cache
+C:\Users\2301059\source\repos\FormCalculadoraDiversa\FormCalculadoraDiversa\obj\Debug\FormCalculadoraDiversa.csproj.CoreCompileInputs.cache
+C:\Users\2301059\source\repos\FormCalculadoraDiversa\FormCalculadoraDiversa\obj\Debug\FormCalculadoraDiversa.exe
+C:\Users\2301059\source\repos\FormCalculadoraDiversa\FormCalculadoraDiversa\obj\Debug\FormCalculadoraDiversa.pdb
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO 2021\FormCalculadoraDiversa\FormCalculadoraDiversa\bin\Debug\FormCalculadoraDiversa.exe.config
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO 2021\FormCalculadoraDiversa\FormCalculadoraDiversa\bin\Debug\FormCalculadoraDiversa.exe
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO 2021\FormCalculadoraDiversa\FormCalculadoraDiversa\bin\Debug\FormCalculadoraDiversa.pdb
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO 2021\FormCalculadoraDiversa\FormCalculadoraDiversa\obj\Debug\FormCalculadoraDiversa.csproj.AssemblyReference.cache
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO 2021\FormCalculadoraDiversa\FormCalculadoraDiversa\obj\Debug\FormCalculadoraDiversa.csproj.SuggestedBindingRedirects.cache
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO 2021\FormCalculadoraDiversa\FormCalculadoraDiversa\obj\Debug\FormCalculadoraDiversa.Form1.resources
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO 2021\FormCalculadoraDiversa\FormCalculadoraDiversa\obj\Debug\FormCalculadoraDiversa.Formularios.FormAumentarSalario.resources
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO 2021\FormCalculadoraDiversa\FormCalculadoraDiversa\obj\Debug\FormCalculadoraDiversa.Formularios.FormCalcularDesconto.resources
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO 2021\FormCalculadoraDiversa\FormCalculadoraDiversa\obj\Debug\FormCalculadoraDiversa.Formularios.FormCalcularFigura.resources
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO 2021\FormCalculadoraDiversa\FormCalculadoraDiversa\obj\Debug\FormCalculadoraDiversa.Properties.Resources.resources
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO 2021\FormCalculadoraDiversa\FormCalculadoraDiversa\obj\Debug\FormCalculadoraDiversa.csproj.GenerateResource.cache
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO 2021\FormCalculadoraDiversa\FormCalculadoraDiversa\obj\Debug\FormCalculadoraDiversa.csproj.CoreCompileInputs.cache
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO 2021\FormCalculadoraDiversa\FormCalculadoraDiversa\obj\Debug\FormCalculadoraDiversa.exe
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO 2021\FormCalculadoraDiversa\FormCalculadoraDiversa\obj\Debug\FormCalculadoraDiversa.pdb
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO 2021\FormCalculadoraDiversa\FormCalculadoraDiversa\obj\Debug\FormCalculadoraDiversa.Formularios.FormCalcularJuros.resources

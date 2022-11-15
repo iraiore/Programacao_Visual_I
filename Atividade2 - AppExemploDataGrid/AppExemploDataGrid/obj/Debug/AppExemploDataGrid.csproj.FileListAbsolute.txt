@@ -1,0 +1,60 @@
+C:\Users\2301059\source\repos\AppExemploDataGrid\AppExemploDataGrid\bin\Debug\AppExemploDataGrid.exe.config
+C:\Users\2301059\source\repos\AppExemploDataGrid\AppExemploDataGrid\bin\Debug\AppExemploDataGrid.exe
+C:\Users\2301059\source\repos\AppExemploDataGrid\AppExemploDataGrid\bin\Debug\AppExemploDataGrid.pdb
+C:\Users\2301059\source\repos\AppExemploDataGrid\AppExemploDataGrid\obj\Debug\AppExemploDataGrid.csproj.AssemblyReference.cache
+C:\Users\2301059\source\repos\AppExemploDataGrid\AppExemploDataGrid\obj\Debug\AppExemploDataGrid.csproj.SuggestedBindingRedirects.cache
+C:\Users\2301059\source\repos\AppExemploDataGrid\AppExemploDataGrid\obj\Debug\AppExemploDataGrid.Form1.resources
+C:\Users\2301059\source\repos\AppExemploDataGrid\AppExemploDataGrid\obj\Debug\AppExemploDataGrid.Formularios.FormFormatacao.resources
+C:\Users\2301059\source\repos\AppExemploDataGrid\AppExemploDataGrid\obj\Debug\AppExemploDataGrid.Properties.Resources.resources
+C:\Users\2301059\source\repos\AppExemploDataGrid\AppExemploDataGrid\obj\Debug\AppExemploDataGrid.csproj.GenerateResource.cache
+C:\Users\2301059\source\repos\AppExemploDataGrid\AppExemploDataGrid\obj\Debug\AppExemploDataGrid.csproj.CoreCompileInputs.cache
+C:\Users\2301059\source\repos\AppExemploDataGrid\AppExemploDataGrid\obj\Debug\AppExemploDataGrid.exe
+C:\Users\2301059\source\repos\AppExemploDataGrid\AppExemploDataGrid\obj\Debug\AppExemploDataGrid.pdb
+C:\Users\2301059\source\repos\AppExemploDataGrid\AppExemploDataGrid\obj\Debug\AppExemploDataGrid.Formularios.FormRegistro.resources
+C:\Users\2301059\source\repos\AppExemploDataGrid\AppExemploDataGrid\obj\Debug\AppExemploDataGrid.Formularios.FormRegistroSalario.resources
+C:\Users\2301059\source\repos\AppExemploDataGrid\AppExemploDataGrid\obj\Debug\AppExemploDataGrid.Formularios.FormExemploReg.resources
+C:\Users\2301059\Documents\Nova pasta\AppExemploDataGrid\AppExemploDataGrid\bin\Debug\AppExemploDataGrid.exe.config
+C:\Users\2301059\Documents\Nova pasta\AppExemploDataGrid\AppExemploDataGrid\bin\Debug\AppExemploDataGrid.exe
+C:\Users\2301059\Documents\Nova pasta\AppExemploDataGrid\AppExemploDataGrid\bin\Debug\AppExemploDataGrid.pdb
+C:\Users\2301059\Documents\Nova pasta\AppExemploDataGrid\AppExemploDataGrid\obj\Debug\AppExemploDataGrid.csproj.AssemblyReference.cache
+C:\Users\2301059\Documents\Nova pasta\AppExemploDataGrid\AppExemploDataGrid\obj\Debug\AppExemploDataGrid.csproj.SuggestedBindingRedirects.cache
+C:\Users\2301059\Documents\Nova pasta\AppExemploDataGrid\AppExemploDataGrid\obj\Debug\AppExemploDataGrid.Form1.resources
+C:\Users\2301059\Documents\Nova pasta\AppExemploDataGrid\AppExemploDataGrid\obj\Debug\AppExemploDataGrid.Formularios.FormExemploReg.resources
+C:\Users\2301059\Documents\Nova pasta\AppExemploDataGrid\AppExemploDataGrid\obj\Debug\AppExemploDataGrid.Formularios.FormFormatacao.resources
+C:\Users\2301059\Documents\Nova pasta\AppExemploDataGrid\AppExemploDataGrid\obj\Debug\AppExemploDataGrid.Formularios.FormRegistro.resources
+C:\Users\2301059\Documents\Nova pasta\AppExemploDataGrid\AppExemploDataGrid\obj\Debug\AppExemploDataGrid.Formularios.FormRegistroSalario.resources
+C:\Users\2301059\Documents\Nova pasta\AppExemploDataGrid\AppExemploDataGrid\obj\Debug\AppExemploDataGrid.Properties.Resources.resources
+C:\Users\2301059\Documents\Nova pasta\AppExemploDataGrid\AppExemploDataGrid\obj\Debug\AppExemploDataGrid.csproj.GenerateResource.cache
+C:\Users\2301059\Documents\Nova pasta\AppExemploDataGrid\AppExemploDataGrid\obj\Debug\AppExemploDataGrid.csproj.CoreCompileInputs.cache
+C:\Users\2301059\Documents\Nova pasta\AppExemploDataGrid\AppExemploDataGrid\obj\Debug\AppExemploDataGrid.exe
+C:\Users\2301059\Documents\Nova pasta\AppExemploDataGrid\AppExemploDataGrid\obj\Debug\AppExemploDataGrid.pdb
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\VisualStudio\AppExemploDataGrid\AppExemploDataGrid\bin\Debug\AppExemploDataGrid.exe.config
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\VisualStudio\AppExemploDataGrid\AppExemploDataGrid\bin\Debug\AppExemploDataGrid.exe
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\VisualStudio\AppExemploDataGrid\AppExemploDataGrid\bin\Debug\AppExemploDataGrid.pdb
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\VisualStudio\AppExemploDataGrid\AppExemploDataGrid\obj\Debug\AppExemploDataGrid.csproj.AssemblyReference.cache
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\VisualStudio\AppExemploDataGrid\AppExemploDataGrid\obj\Debug\AppExemploDataGrid.csproj.SuggestedBindingRedirects.cache
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\VisualStudio\AppExemploDataGrid\AppExemploDataGrid\obj\Debug\AppExemploDataGrid.Form1.resources
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\VisualStudio\AppExemploDataGrid\AppExemploDataGrid\obj\Debug\AppExemploDataGrid.Formularios.FormExemploReg.resources
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\VisualStudio\AppExemploDataGrid\AppExemploDataGrid\obj\Debug\AppExemploDataGrid.Formularios.FormFormatacao.resources
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\VisualStudio\AppExemploDataGrid\AppExemploDataGrid\obj\Debug\AppExemploDataGrid.Formularios.FormRegistro.resources
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\VisualStudio\AppExemploDataGrid\AppExemploDataGrid\obj\Debug\AppExemploDataGrid.Formularios.FormRegistroSalario.resources
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\VisualStudio\AppExemploDataGrid\AppExemploDataGrid\obj\Debug\AppExemploDataGrid.Properties.Resources.resources
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\VisualStudio\AppExemploDataGrid\AppExemploDataGrid\obj\Debug\AppExemploDataGrid.csproj.GenerateResource.cache
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\VisualStudio\AppExemploDataGrid\AppExemploDataGrid\obj\Debug\AppExemploDataGrid.csproj.CoreCompileInputs.cache
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\VisualStudio\AppExemploDataGrid\AppExemploDataGrid\obj\Debug\AppExemploDataGrid.exe
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\VisualStudio\AppExemploDataGrid\AppExemploDataGrid\obj\Debug\AppExemploDataGrid.pdb
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO\Programação Visual\AppExemploDataGrid\AppExemploDataGrid\bin\Debug\AppExemploDataGrid.exe.config
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO\Programação Visual\AppExemploDataGrid\AppExemploDataGrid\bin\Debug\AppExemploDataGrid.exe
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO\Programação Visual\AppExemploDataGrid\AppExemploDataGrid\bin\Debug\AppExemploDataGrid.pdb
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO\Programação Visual\AppExemploDataGrid\AppExemploDataGrid\obj\Debug\AppExemploDataGrid.csproj.AssemblyReference.cache
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO\Programação Visual\AppExemploDataGrid\AppExemploDataGrid\obj\Debug\AppExemploDataGrid.csproj.SuggestedBindingRedirects.cache
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO\Programação Visual\AppExemploDataGrid\AppExemploDataGrid\obj\Debug\AppExemploDataGrid.Form1.resources
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO\Programação Visual\AppExemploDataGrid\AppExemploDataGrid\obj\Debug\AppExemploDataGrid.Formularios.FormExemploReg.resources
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO\Programação Visual\AppExemploDataGrid\AppExemploDataGrid\obj\Debug\AppExemploDataGrid.Formularios.FormFormatacao.resources
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO\Programação Visual\AppExemploDataGrid\AppExemploDataGrid\obj\Debug\AppExemploDataGrid.Formularios.FormRegistro.resources
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO\Programação Visual\AppExemploDataGrid\AppExemploDataGrid\obj\Debug\AppExemploDataGrid.Formularios.FormRegistroSalario.resources
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO\Programação Visual\AppExemploDataGrid\AppExemploDataGrid\obj\Debug\AppExemploDataGrid.Properties.Resources.resources
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO\Programação Visual\AppExemploDataGrid\AppExemploDataGrid\obj\Debug\AppExemploDataGrid.csproj.GenerateResource.cache
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO\Programação Visual\AppExemploDataGrid\AppExemploDataGrid\obj\Debug\AppExemploDataGrid.csproj.CoreCompileInputs.cache
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO\Programação Visual\AppExemploDataGrid\AppExemploDataGrid\obj\Debug\AppExemploDataGrid.exe
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO\Programação Visual\AppExemploDataGrid\AppExemploDataGrid\obj\Debug\AppExemploDataGrid.pdb
