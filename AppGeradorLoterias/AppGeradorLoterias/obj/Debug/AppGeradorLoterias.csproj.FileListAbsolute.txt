@@ -1,0 +1,15 @@
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO\AppGeradorLoterias\AppGeradorLoterias\obj\Debug\AppGeradorLoterias.csproj.AssemblyReference.cache
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO\AppGeradorLoterias\AppGeradorLoterias\obj\Debug\AppGeradorLoterias.csproj.SuggestedBindingRedirects.cache
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO\AppGeradorLoterias\AppGeradorLoterias\obj\Debug\AppGeradorLoterias.Form1.resources
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO\AppGeradorLoterias\AppGeradorLoterias\obj\Debug\AppGeradorLoterias.Formularios.FormLotoFacil.resources
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO\AppGeradorLoterias\AppGeradorLoterias\obj\Debug\AppGeradorLoterias.Properties.Resources.resources
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO\AppGeradorLoterias\AppGeradorLoterias\obj\Debug\AppGeradorLoterias.csproj.GenerateResource.cache
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO\AppGeradorLoterias\AppGeradorLoterias\obj\Debug\AppGeradorLoterias.csproj.CoreCompileInputs.cache
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO\AppGeradorLoterias\AppGeradorLoterias\bin\Debug\AppGeradorLoterias.exe.config
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO\AppGeradorLoterias\AppGeradorLoterias\bin\Debug\AppGeradorLoterias.exe
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO\AppGeradorLoterias\AppGeradorLoterias\bin\Debug\AppGeradorLoterias.pdb
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO\AppGeradorLoterias\AppGeradorLoterias\obj\Debug\AppGeradorLoterias.exe
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO\AppGeradorLoterias\AppGeradorLoterias\obj\Debug\AppGeradorLoterias.pdb
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO\AppGeradorLoterias\AppGeradorLoterias\obj\Debug\AppGeradorLoterias.Formularios.FormMegaSena.resources
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO\AppGeradorLoterias\AppGeradorLoterias\obj\Debug\AppGeradorLoterias.Formularios.FormQuina.resources
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\IFRO\AppGeradorLoterias\AppGeradorLoterias\obj\Debug\AppGeradorLoterias.Formularios.FormLotomania.resources
